@@ -1,9 +1,9 @@
 # 🎧 فایل سابلیمینال | افزایش هوش، تمرکز، خلاقیت و استعداد
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-1.0-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/format-FLAC-brightgreen?style=flat-square" />
-  <img src="https://img.shields.io/badge/price-FREE-red?style=flat-square" />
+  <img src="https://img.shields.io/badge/version-1.0-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/format-FLAC-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/price-FREE-red?style=for-the-badge" />
 </p>
 
 ---
@@ -32,18 +32,10 @@
 |---------|------|
 | `Subliminal_mindcontrol.zip` | ~۲۰ مگابایت |
 
-**🔐 رمز فشرده:** `@subliminal_free`
-
-<p align="center">
-  <button onclick="copyPassword()" style="background:#2c3e50; color:white; border:none; padding:8px 16px; border-radius:8px; cursor:pointer; font-size:14px;">📋 Copy Password</button>
-</p>
-
-<script>
-function copyPassword() {
-  navigator.clipboard.writeText("@subliminal_free");
-  alert("Password copied to clipboard!");
-}
-</script>
+**🔐 رمز فشرده:** 
+<div dir="ltr" align="center">
+  <code style="font-size:1.2em; background:#f0f0f0; padding:6px 12px; border-radius:6px;">@subliminal_free</code>
+</div>
 
 ---
 
@@ -105,13 +97,13 @@ function copyPassword() {
 
 <p align="center">
   <a href="https://ble.ir/subliminal_free">
-    <img src="https://img.shields.io/badge/💬_Bale-@subliminal_free-20b2aa?style=flat-square&logo=telegram" />
+    <img src="https://img.shields.io/badge/💬_Bale-@subliminal_free-20b2aa?style=for-the-badge&logo=telegram" />
   </a>
   <a href="mailto:mhmdmhmdybrjk@gmail.com">
-    <img src="https://img.shields.io/badge/✉️_Email-mhmdmhmdybrjk%40gmail.com-red?style=flat-square&logo=gmail" />
+    <img src="https://img.shields.io/badge/✉️_Email-mhmdmhmdybrjk%40gmail.com-red?style=for-the-badge&logo=gmail" />
   </a>
   <a href="https://github.com/Metaman369">
-    <img src="https://img.shields.io/badge/🐙_GitHub-Metaman369-black?style=flat-square&logo=github" />
+    <img src="https://img.shields.io/badge/🐙_GitHub-Metaman369-black?style=for-the-badge&logo=github" />
   </a>
 </p>
 
